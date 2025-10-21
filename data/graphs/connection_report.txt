@@ -1,0 +1,101 @@
+============================================================
+CAR TO PT CONNECTION REPORT
+============================================================
+
+Total train stations: 10
+Stations connected: 10
+Stations not connected: 0
+Max walking distance: 300m
+
+============================================================
+CONNECTION DETAILS
+============================================================
+
+1. Auburn Station
+   Station ID: vic:rail:AUB
+   Station Location: (-37.822555, 145.046055)
+   Connected to Road Node: road_2170492194
+   Road Location: (-37.822838, 145.045670)
+   Walking Distance: 46.3m
+   Walking Time: 0.6 minutes
+
+2. Burnley Station
+   Station ID: vic:rail:BLY
+   Station Location: (-37.827688, 145.007654)
+   Connected to Road Node: road_247129318
+   Road Location: (-37.827827, 145.007207)
+   Walking Distance: 42.3m
+   Walking Time: 0.5 minutes
+
+3. Camberwell Station
+   Station ID: vic:rail:CAM
+   Station Location: (-37.826688, 145.058365)
+   Connected to Road Node: road_311406316
+   Road Location: (-37.826301, 145.058843)
+   Walking Distance: 60.1m
+   Walking Time: 0.7 minutes
+
+4. East Camberwell Station
+   Station ID: vic:rail:ECM
+   Station Location: (-37.825841, 145.068248)
+   Connected to Road Node: road_311436148
+   Road Location: (-37.826377, 145.067866)
+   Walking Distance: 68.4m
+   Walking Time: 0.8 minutes
+
+5. Glenferrie Station
+   Station ID: vic:rail:GFE
+   Station Location: (-37.821583, 145.036402)
+   Connected to Road Node: road_598491771
+   Road Location: (-37.822247, 145.036096)
+   Walking Distance: 78.5m
+   Walking Time: 0.9 minutes
+
+6. Hawthorn Station
+   Station ID: vic:rail:HAW
+   Station Location: (-37.822071, 145.023006)
+   Connected to Road Node: road_2397142291
+   Road Location: (-37.822221, 145.022863)
+   Walking Distance: 20.8m
+   Walking Time: 0.2 minutes
+
+7. Heyington Station
+   Station ID: vic:rail:HEY
+   Station Location: (-37.834644, 145.022568)
+   Connected to Road Node: road_309805806
+   Road Location: (-37.834609, 145.022045)
+   Walking Distance: 46.2m
+   Walking Time: 0.5 minutes
+
+8. Kooyong Station
+   Station ID: vic:rail:KYG
+   Station Location: (-37.839974, 145.033539)
+   Connected to Road Node: road_304927308
+   Road Location: (-37.840272, 145.033536)
+   Walking Distance: 33.0m
+   Walking Time: 0.4 minutes
+
+9. Riversdale Station
+   Station ID: vic:rail:RIV
+   Station Location: (-37.831298, 145.069640)
+   Connected to Road Node: road_312423022
+   Road Location: (-37.832771, 145.069110)
+   Walking Distance: 170.0m
+   Walking Time: 2.0 minutes
+
+10. Tooronga Station
+   Station ID: vic:rail:TGA
+   Station Location: (-37.849135, 145.041399)
+   Connected to Road Node: road_11751876268
+   Road Location: (-37.848979, 145.040738)
+   Walking Distance: 60.6m
+   Walking Time: 0.7 minutes
+
+============================================================
+STATISTICS
+============================================================
+
+Average walking distance: 62.6m
+Min walking distance: 20.8m
+Max walking distance: 170.0m
+Average walking time: 0.7 minutes
