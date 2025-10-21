@@ -1,0 +1,112 @@
+[
+  {
+    "station_id": "vic:rail:AUB",
+    "station_name": "Auburn Station",
+    "station_lat": -37.82255502,
+    "station_lon": 145.04605538,
+    "road_node": "road_2170492194",
+    "road_lat": -37.8228381,
+    "road_lon": 145.0456695,
+    "distance": 46.27591634697245,
+    "walk_time": 33.05422596212318
+  },
+  {
+    "station_id": "vic:rail:BLY",
+    "station_name": "Burnley Station",
+    "station_lat": -37.82768805,
+    "station_lon": 145.00765396,
+    "road_node": "road_247129318",
+    "road_lat": -37.827827,
+    "road_lon": 145.0072071,
+    "distance": 42.255456105092776,
+    "walk_time": 30.182468646494844
+  },
+  {
+    "station_id": "vic:rail:CAM",
+    "station_name": "Camberwell Station",
+    "station_lat": -37.82668783,
+    "station_lon": 145.05836453,
+    "road_node": "road_311406316",
+    "road_lat": -37.8263014,
+    "road_lon": 145.0588433,
+    "distance": 60.13572355074919,
+    "walk_time": 42.954088250535136
+  },
+  {
+    "station_id": "vic:rail:ECM",
+    "station_name": "East Camberwell Station",
+    "station_lat": -37.82584107,
+    "station_lon": 145.06824844,
+    "road_node": "road_311436148",
+    "road_lat": -37.8263773,
+    "road_lon": 145.0678664,
+    "distance": 68.36419802707216,
+    "walk_time": 48.83157001933726
+  },
+  {
+    "station_id": "vic:rail:GFE",
+    "station_name": "Glenferrie Station",
+    "station_lat": -37.82158336,
+    "station_lon": 145.03640166,
+    "road_node": "road_598491771",
+    "road_lat": -37.8222474,
+    "road_lon": 145.0360959,
+    "distance": 78.46636949061904,
+    "walk_time": 56.047406779013606
+  },
+  {
+    "station_id": "vic:rail:HAW",
+    "station_name": "Hawthorn Station",
+    "station_lat": -37.82207113,
+    "station_lon": 145.02300573,
+    "road_node": "road_2397142291",
+    "road_lat": -37.822221,
+    "road_lon": 145.022863,
+    "distance": 20.84768234768964,
+    "walk_time": 14.891201676921174
+  },
+  {
+    "station_id": "vic:rail:HEY",
+    "station_name": "Heyington Station",
+    "station_lat": -37.83464428,
+    "station_lon": 145.02256785,
+    "road_node": "road_309805806",
+    "road_lat": -37.8346095,
+    "road_lon": 145.022045,
+    "distance": 46.18774247205,
+    "walk_time": 32.99124462289286
+  },
+  {
+    "station_id": "vic:rail:KYG",
+    "station_name": "Kooyong Station",
+    "station_lat": -37.83997379,
+    "station_lon": 145.03353905,
+    "road_node": "road_304927308",
+    "road_lat": -37.8402715,
+    "road_lon": 145.033536,
+    "distance": 33.04495161241056,
+    "walk_time": 23.60353686600754
+  },
+  {
+    "station_id": "vic:rail:RIV",
+    "station_name": "Riversdale Station",
+    "station_lat": -37.83129806,
+    "station_lon": 145.06964002,
+    "road_node": "road_312423022",
+    "road_lat": -37.8327705,
+    "road_lon": 145.0691103,
+    "distance": 169.95374848823295,
+    "walk_time": 121.39553463445212
+  },
+  {
+    "station_id": "vic:rail:TGA",
+    "station_name": "Tooronga Station",
+    "station_lat": -37.84913467,
+    "station_lon": 145.0413989,
+    "road_node": "road_11751876268",
+    "road_lat": -37.8489795,
+    "road_lon": 145.0407382,
+    "distance": 60.646593977271934,
+    "walk_time": 43.31899569805138
+  }
+]
