@@ -250,7 +250,7 @@ def add_title(m, G):
         🌐 Multimodal Transport Network
     </p>
     <p style="margin: 5px 0; font-size: 14px; color: #666;">
-        Burnley → Hawthorn → Box Hill Corridor
+        Burnley → Hawthorn → Camberwell Corridor
     </p>
     <p style="margin: 5px 0; font-size: 12px; color: #999;">
         {G.number_of_nodes():,} nodes | {G.number_of_edges():,} edges
