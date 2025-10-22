@@ -1,6 +1,6 @@
 [
   {
-    "station_id": "vic:rail:AUB",
+    "station_id": "train_vic:rail:AUB",
     "station_name": "Auburn Station",
     "station_lat": -37.82255502,
     "station_lon": 145.04605538,
@@ -11,7 +11,7 @@
     "walk_time": 33.05422596212318
   },
   {
-    "station_id": "vic:rail:BLY",
+    "station_id": "train_vic:rail:BLY",
     "station_name": "Burnley Station",
     "station_lat": -37.82768805,
     "station_lon": 145.00765396,
@@ -22,7 +22,7 @@
     "walk_time": 30.182468646494844
   },
   {
-    "station_id": "vic:rail:CAM",
+    "station_id": "train_vic:rail:CAM",
     "station_name": "Camberwell Station",
     "station_lat": -37.82668783,
     "station_lon": 145.05836453,
@@ -33,7 +33,7 @@
     "walk_time": 42.954088250535136
   },
   {
-    "station_id": "vic:rail:ECM",
+    "station_id": "train_vic:rail:ECM",
     "station_name": "East Camberwell Station",
     "station_lat": -37.82584107,
     "station_lon": 145.06824844,
@@ -44,7 +44,7 @@
     "walk_time": 48.83157001933726
   },
   {
-    "station_id": "vic:rail:GFE",
+    "station_id": "train_vic:rail:GFE",
     "station_name": "Glenferrie Station",
     "station_lat": -37.82158336,
     "station_lon": 145.03640166,
@@ -55,7 +55,7 @@
     "walk_time": 56.047406779013606
   },
   {
-    "station_id": "vic:rail:HAW",
+    "station_id": "train_vic:rail:HAW",
     "station_name": "Hawthorn Station",
     "station_lat": -37.82207113,
     "station_lon": 145.02300573,
@@ -66,7 +66,7 @@
     "walk_time": 14.891201676921174
   },
   {
-    "station_id": "vic:rail:HEY",
+    "station_id": "train_vic:rail:HEY",
     "station_name": "Heyington Station",
     "station_lat": -37.83464428,
     "station_lon": 145.02256785,
@@ -77,7 +77,7 @@
     "walk_time": 32.99124462289286
   },
   {
-    "station_id": "vic:rail:KYG",
+    "station_id": "train_vic:rail:KYG",
     "station_name": "Kooyong Station",
     "station_lat": -37.83997379,
     "station_lon": 145.03353905,
@@ -88,7 +88,7 @@
     "walk_time": 23.60353686600754
   },
   {
-    "station_id": "vic:rail:RIV",
+    "station_id": "train_vic:rail:RIV",
     "station_name": "Riversdale Station",
     "station_lat": -37.83129806,
     "station_lon": 145.06964002,
@@ -99,7 +99,7 @@
     "walk_time": 121.39553463445212
   },
   {
-    "station_id": "vic:rail:TGA",
+    "station_id": "train_vic:rail:TGA",
     "station_name": "Tooronga Station",
     "station_lat": -37.84913467,
     "station_lon": 145.0413989,

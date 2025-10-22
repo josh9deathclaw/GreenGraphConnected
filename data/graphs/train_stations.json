@@ -1,69 +1,69 @@
 [
   {
-    "id": "vic:rail:AUB",
+    "id": "train_vic:rail:AUB",
     "name": "Auburn Station",
     "lat": -37.82255502,
     "lon": 145.04605538,
     "node_type": "train_station"
   },
   {
-    "id": "vic:rail:BLY",
+    "id": "train_vic:rail:BLY",
     "name": "Burnley Station",
     "lat": -37.82768805,
     "lon": 145.00765396,
     "node_type": "train_station"
   },
   {
-    "id": "vic:rail:CAM",
+    "id": "train_vic:rail:CAM",
     "name": "Camberwell Station",
     "lat": -37.82668783,
     "lon": 145.05836453,
     "node_type": "train_station"
   },
   {
-    "id": "vic:rail:ECM",
+    "id": "train_vic:rail:ECM",
     "name": "East Camberwell Station",
     "lat": -37.82584107,
     "lon": 145.06824844,
     "node_type": "train_station"
   },
   {
-    "id": "vic:rail:GFE",
+    "id": "train_vic:rail:GFE",
     "name": "Glenferrie Station",
     "lat": -37.82158336,
     "lon": 145.03640166,
     "node_type": "train_station"
   },
   {
-    "id": "vic:rail:HAW",
+    "id": "train_vic:rail:HAW",
     "name": "Hawthorn Station",
     "lat": -37.82207113,
     "lon": 145.02300573,
     "node_type": "train_station"
   },
   {
-    "id": "vic:rail:HEY",
+    "id": "train_vic:rail:HEY",
     "name": "Heyington Station",
     "lat": -37.83464428,
     "lon": 145.02256785,
     "node_type": "train_station"
   },
   {
-    "id": "vic:rail:KYG",
+    "id": "train_vic:rail:KYG",
     "name": "Kooyong Station",
     "lat": -37.83997379,
     "lon": 145.03353905,
     "node_type": "train_station"
   },
   {
-    "id": "vic:rail:RIV",
+    "id": "train_vic:rail:RIV",
     "name": "Riversdale Station",
     "lat": -37.83129806,
     "lon": 145.06964002,
     "node_type": "train_station"
   },
   {
-    "id": "vic:rail:TGA",
+    "id": "train_vic:rail:TGA",
     "name": "Tooronga Station",
     "lat": -37.84913467,
     "lon": 145.0413989,
