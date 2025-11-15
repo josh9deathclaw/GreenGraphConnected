@@ -38,6 +38,18 @@ class PTWalkingConnectionBuilder:
         logger.info("ADDING PT WALKING CONNECTIONS")
         logger.info("="*60)
         logger.info(f"Max walking distance: {self.max_walk_distance}m")
+
+        # OPTION 2: Clear existing walking edges first
+        logger.info("Clearing existing walking edges...")
+        edges_to_remove = []
+        for u, v, data in self.graph.edges(data=True):
+            if data.get('mode') == 'walk' and data.get('edge_type') == 'pt_transfer':
+                edges_to_remove.append((u, v))
+        
+        for u, v in edges_to_remove:
+            self.graph.remove_edge(u, v)
+        
+        logger.info(f"✅ Removed {len(edges_to_remove)} existing walking edges")
         
         # Extract PT nodes with coordinates
         pt_nodes = self.extract_pt_nodes()
@@ -123,7 +135,7 @@ class PTWalkingConnectionBuilder:
             indices = tree.query_ball_point(coords[i], search_radius_degrees)
             
             for j in indices:
-                if i >= j:  # Skip self and already processed pairs
+                if i == j:  # Skip self and already processed pairs
                     continue
                 
                 neighbor_id = node_ids[j]

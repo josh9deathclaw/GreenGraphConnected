@@ -21,7 +21,7 @@ STATIC_GRAPH_IMAGE = f'{OUTPUT_DIR}/combined_network.png'
 TRAIN_ROUTE_TYPES = [1, 2]
 
 # Connection Parameters
-MAX_WALKING_DISTANCE_M = 300 #meters
+MAX_WALKING_DISTANCE_M = 2000 #meters
 WALKING_SPEED = 1.4 #meters per second
 
 # Graph Validation
