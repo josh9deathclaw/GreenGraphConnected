@@ -119,7 +119,7 @@ def add_edges_to_map(m, G):
             opacity = 0.9
         else:  # walk
             weight = 1.0
-            opacity = 0.4
+            opacity = 0.04
         
         # Draw edges (sample if too many)
         sample_size = 2000 if mode == 'car' else len(edges)

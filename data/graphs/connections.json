@@ -1,5 +1,60 @@
 [
   {
+    "station_id": "train_vic:rail:ALM",
+    "station_name": "Alamein Station",
+    "station_lat": -37.86818601,
+    "station_lon": 145.07970463,
+    "road_node": "road_30288120",
+    "road_lat": -37.8682146,
+    "road_lon": 145.079904,
+    "distance": 17.827157713729182,
+    "walk_time": 12.73368408123513
+  },
+  {
+    "station_id": "train_vic:rail:ALP",
+    "station_name": "Alphington Station",
+    "station_lat": -37.77844825,
+    "station_lon": 145.03128755,
+    "road_node": "road_10828791213",
+    "road_lat": -37.7779211,
+    "road_lon": 145.0315621,
+    "distance": 63.3117300342646,
+    "walk_time": 45.222664310189
+  },
+  {
+    "station_id": "train_vic:rail:ARM",
+    "station_name": "Armadale Station",
+    "station_lat": -37.85624829,
+    "station_lon": 145.01897865,
+    "road_node": "road_306406009",
+    "road_lat": -37.8565413,
+    "road_lon": 145.0188899,
+    "distance": 33.44696872971205,
+    "walk_time": 23.89069194979432
+  },
+  {
+    "station_id": "train_vic:rail:ASH",
+    "station_name": "Ashburton Station",
+    "station_lat": -37.86193224,
+    "station_lon": 145.08139014,
+    "road_node": "road_1746555955",
+    "road_lat": -37.862104,
+    "road_lon": 145.0817405,
+    "distance": 36.248732560248705,
+    "walk_time": 25.891951828749075
+  },
+  {
+    "station_id": "train_vic:rail:ASP",
+    "station_name": "Aspendale Station",
+    "station_lat": -38.02710953,
+    "station_lon": 145.10199298,
+    "road_node": "road_316546544",
+    "road_lat": -38.0273675,
+    "road_lon": 145.1019404,
+    "distance": 29.003657794977418,
+    "walk_time": 20.71689842498387
+  },
+  {
     "station_id": "train_vic:rail:AUB",
     "station_name": "Auburn Station",
     "station_lat": -37.82255502,
@@ -9,6 +64,83 @@
     "road_lon": 145.0456695,
     "distance": 46.27591634697245,
     "walk_time": 33.05422596212318
+  },
+  {
+    "station_id": "train_vic:rail:BAY",
+    "station_name": "Bayswater Station",
+    "station_lat": -37.84186584,
+    "station_lon": 145.26817867,
+    "road_node": "road_266325964",
+    "road_lat": -37.842912,
+    "road_lon": 145.268329,
+    "distance": 116.86845156109145,
+    "walk_time": 83.47746540077961
+  },
+  {
+    "station_id": "train_vic:rail:BEG",
+    "station_name": "Belgrave Station",
+    "station_lat": -37.9091367,
+    "station_lon": 145.35518814,
+    "road_node": "road_33999535",
+    "road_lat": -37.9086872,
+    "road_lon": 145.3548276,
+    "distance": 59.114395414652094,
+    "walk_time": 42.22456815332293
+  },
+  {
+    "station_id": "train_vic:rail:BEL",
+    "station_name": "Bell Station",
+    "station_lat": -37.74603438,
+    "station_lon": 145.0003693,
+    "road_node": "road_226444122",
+    "road_lat": -37.7449312,
+    "road_lon": 145.0007919,
+    "distance": 127.98335403956754,
+    "walk_time": 91.41668145683397
+  },
+  {
+    "station_id": "train_vic:rail:BEN",
+    "station_name": "Bentleigh Station",
+    "station_lat": -37.91709091,
+    "station_lon": 145.03698125,
+    "road_node": "road_2294218385",
+    "road_lat": -37.9171834,
+    "road_lon": 145.0372955,
+    "distance": 29.477745444507555,
+    "walk_time": 21.055532460362542
+  },
+  {
+    "station_id": "train_vic:rail:BBN",
+    "station_name": "Blackburn Station",
+    "station_lat": -37.82019776,
+    "station_lon": 145.15006717,
+    "road_node": "road_30004816",
+    "road_lat": -37.820576,
+    "road_lon": 145.1501256,
+    "distance": 42.29605837216467,
+    "walk_time": 30.21147026583191
+  },
+  {
+    "station_id": "train_vic:rail:BOR",
+    "station_name": "Boronia Station",
+    "station_lat": -37.86052901,
+    "station_lon": 145.28473574,
+    "road_node": "road_614128296",
+    "road_lat": -37.8606649,
+    "road_lon": 145.284065,
+    "distance": 60.92075770367945,
+    "walk_time": 43.51482693119961
+  },
+  {
+    "station_id": "train_vic:rail:BOX",
+    "station_name": "Box Hill Station",
+    "station_lat": -37.81934528,
+    "station_lon": 145.12183478,
+    "road_node": "road_267200018",
+    "road_lat": -37.8183278,
+    "road_lon": 145.1210726,
+    "distance": 131.36765198175846,
+    "walk_time": 93.83403712982748
   },
   {
     "station_id": "train_vic:rail:BLY",
@@ -22,6 +154,17 @@
     "walk_time": 30.182468646494844
   },
   {
+    "station_id": "train_vic:rail:BWD",
+    "station_name": "Burwood Station",
+    "station_lat": -37.85162801,
+    "station_lon": 145.08061168,
+    "road_node": "road_1893261192",
+    "road_lat": -37.8519672,
+    "road_lon": 145.0803124,
+    "distance": 45.947002430807025,
+    "walk_time": 32.81928745057645
+  },
+  {
     "station_id": "train_vic:rail:CAM",
     "station_name": "Camberwell Station",
     "station_lat": -37.82668783,
@@ -31,6 +174,149 @@
     "road_lon": 145.0588433,
     "distance": 60.13572355074919,
     "walk_time": 42.954088250535136
+  },
+  {
+    "station_id": "train_vic:rail:CBY",
+    "station_name": "Canterbury Station",
+    "station_lat": -37.82471032,
+    "station_lon": 145.08066171,
+    "road_node": "road_310687898",
+    "road_lat": -37.8254508,
+    "road_lon": 145.0803541,
+    "distance": 86.53524688608478,
+    "walk_time": 61.810890632917705
+  },
+  {
+    "station_id": "train_vic:rail:CNE",
+    "station_name": "Carnegie Station",
+    "station_lat": -37.886334,
+    "station_lon": 145.05872045,
+    "road_node": "road_266417345",
+    "road_lat": -37.8866236,
+    "road_lon": 145.0585664,
+    "distance": 34.88373626054136,
+    "walk_time": 24.91695447181526
+  },
+  {
+    "station_id": "train_vic:rail:CFD",
+    "station_name": "Caulfield Station",
+    "station_lat": -37.87736201,
+    "station_lon": 145.04208396,
+    "road_node": "road_10848226035",
+    "road_lat": -37.8774905,
+    "road_lon": 145.0417149,
+    "distance": 35.46338376669836,
+    "walk_time": 25.33098840478454
+  },
+  {
+    "station_id": "train_vic:rail:CHM",
+    "station_name": "Chatham Station",
+    "station_lat": -37.82426367,
+    "station_lon": 145.08866022,
+    "road_node": "road_314486114",
+    "road_lat": -37.8240566,
+    "road_lon": 145.0886149,
+    "distance": 23.327129900264396,
+    "walk_time": 16.662235643046
+  },
+  {
+    "station_id": "train_vic:rail:CTM",
+    "station_name": "Cheltenham Station",
+    "station_lat": -37.96662137,
+    "station_lon": 145.05446762,
+    "road_node": "road_2156660908",
+    "road_lat": -37.9669599,
+    "road_lon": 145.0553994,
+    "distance": 90.08787354891238,
+    "walk_time": 64.348481106366
+  },
+  {
+    "station_id": "train_vic:rail:CLA",
+    "station_name": "Clayton Station",
+    "station_lat": -37.92473123,
+    "station_lon": 145.12076066,
+    "road_node": "road_1662260318",
+    "road_lat": -37.9247501,
+    "road_lon": 145.1211565,
+    "distance": 34.86606898892415,
+    "walk_time": 24.90433499208868
+  },
+  {
+    "station_id": "train_vic:rail:CDN",
+    "station_name": "Croydon Station",
+    "station_lat": -37.79536639,
+    "station_lon": 145.28070162,
+    "road_node": "road_11993368760",
+    "road_lat": -37.7955917,
+    "road_lon": 145.280438,
+    "distance": 34.12460084043612,
+    "walk_time": 24.374714886025803
+  },
+  {
+    "station_id": "train_vic:rail:DNG",
+    "station_name": "Dandenong Station",
+    "station_lat": -37.99014081,
+    "station_lon": 145.20983503,
+    "road_node": "road_319116237",
+    "road_lat": -37.990838,
+    "road_lon": 145.2091118,
+    "distance": 100.1236215613905,
+    "walk_time": 71.51687254385035
+  },
+  {
+    "station_id": "train_vic:rail:DBN",
+    "station_name": "Darebin Station",
+    "station_lat": -37.77491182,
+    "station_lon": 145.03862494,
+    "road_node": "road_322703920",
+    "road_lat": -37.7749428,
+    "road_lon": 145.0393117,
+    "distance": 60.60133961403281,
+    "walk_time": 43.28667115288058
+  },
+  {
+    "station_id": "train_vic:rail:DLG",
+    "station_name": "Darling Station",
+    "station_lat": -37.86894634,
+    "station_lon": 145.06286016,
+    "road_node": "road_309272987",
+    "road_lat": -37.8691146,
+    "road_lon": 145.0624588,
+    "distance": 39.949209931815126,
+    "walk_time": 28.53514995129652
+  },
+  {
+    "station_id": "train_vic:rail:DEN",
+    "station_name": "Dennis Station",
+    "station_lat": -37.77924153,
+    "station_lon": 145.00825153,
+    "road_node": "road_246939620",
+    "road_lat": -37.779017,
+    "road_lon": 145.0079284,
+    "distance": 37.833670456960455,
+    "walk_time": 27.024050326400328
+  },
+  {
+    "station_id": "train_vic:rail:DCK",
+    "station_name": "Diamond Creek Station",
+    "station_lat": -37.67336015,
+    "station_lon": 145.15848196,
+    "road_node": "road_685099772",
+    "road_lat": -37.6742925,
+    "road_lon": 145.1574349,
+    "distance": 138.71199027742026,
+    "walk_time": 99.07999305530019
+  },
+  {
+    "station_id": "train_vic:rail:EAG",
+    "station_name": "Eaglemont Station",
+    "station_lat": -37.76372873,
+    "station_lon": 145.05388218,
+    "road_node": "road_322691043",
+    "road_lat": -37.7644002,
+    "road_lon": 145.0538481,
+    "distance": 74.588281685113,
+    "walk_time": 53.277344060795
   },
   {
     "station_id": "train_vic:rail:ECM",
@@ -44,6 +330,127 @@
     "walk_time": 48.83157001933726
   },
   {
+    "station_id": "train_vic:rail:EMV",
+    "station_name": "East Malvern Station",
+    "station_lat": -37.87688031,
+    "station_lon": 145.06911007,
+    "road_node": "road_992485750",
+    "road_lat": -37.8780158,
+    "road_lon": 145.0700691,
+    "distance": 151.6681224972352,
+    "walk_time": 108.33437321231087
+  },
+  {
+    "station_id": "train_vic:rail:ELS",
+    "station_name": "Elsternwick Station",
+    "station_lat": -37.88476077,
+    "station_lon": 145.00081807,
+    "road_node": "road_12395292420",
+    "road_lat": -37.8850565,
+    "road_lon": 145.0003677,
+    "distance": 51.449884533176245,
+    "walk_time": 36.74991752369732
+  },
+  {
+    "station_id": "train_vic:rail:ELT",
+    "station_name": "Eltham Station",
+    "station_lat": -37.71340714,
+    "station_lon": 145.14792767,
+    "road_node": "road_2080805322",
+    "road_lat": -37.7136123,
+    "road_lon": 145.1485256,
+    "distance": 57.42866859530878,
+    "walk_time": 41.0204775680777
+  },
+  {
+    "station_id": "train_vic:rail:EPP",
+    "station_name": "Epping Station",
+    "station_lat": -37.65221073,
+    "station_lon": 145.03142985,
+    "road_node": "road_1588110344",
+    "road_lat": -37.6526169,
+    "road_lon": 145.0316079,
+    "distance": 47.740400602432985,
+    "walk_time": 34.10028614459499
+  },
+  {
+    "station_id": "train_vic:rail:FFD",
+    "station_name": "Fairfield Station",
+    "station_lat": -37.77923565,
+    "station_lon": 145.01698306,
+    "road_node": "road_5593507269",
+    "road_lat": -37.7794764,
+    "road_lon": 145.0168955,
+    "distance": 27.81245476830028,
+    "walk_time": 19.866039120214488
+  },
+  {
+    "station_id": "train_vic:rail:FTG",
+    "station_name": "Ferntree Gully Station",
+    "station_lat": -37.88134219,
+    "station_lon": 145.29495246,
+    "road_node": "road_335617589",
+    "road_lat": -37.8816847,
+    "road_lon": 145.2944427,
+    "distance": 58.790952182140174,
+    "walk_time": 41.99353727295727
+  },
+  {
+    "station_id": "train_vic:rail:GVE",
+    "station_name": "Gardenvale Station",
+    "station_lat": -37.89662205,
+    "station_lon": 145.00411355,
+    "road_node": "road_7324602081",
+    "road_lat": -37.8964695,
+    "road_lon": 145.0046098,
+    "distance": 46.81719192438565,
+    "walk_time": 33.44085137456118
+  },
+  {
+    "station_id": "train_vic:rail:GAR",
+    "station_name": "Gardiner Station",
+    "station_lat": -37.8528872,
+    "station_lon": 145.05084666,
+    "road_node": "road_5829154314",
+    "road_lat": -37.853291,
+    "road_lon": 145.0513347,
+    "distance": 62.07708888161215,
+    "walk_time": 44.34077777258011
+  },
+  {
+    "station_id": "train_vic:rail:GHY",
+    "station_name": "Glen Huntly Station",
+    "station_lat": -37.89018352,
+    "station_lon": 145.04194902,
+    "road_node": "road_266265755",
+    "road_lat": -37.8905763,
+    "road_lon": 145.042364,
+    "distance": 56.860412075084035,
+    "walk_time": 40.61458005363146
+  },
+  {
+    "station_id": "train_vic:rail:GIR",
+    "station_name": "Glen Iris Station",
+    "station_lat": -37.85924349,
+    "station_lon": 145.05811294,
+    "road_node": "road_276590834",
+    "road_lat": -37.8590429,
+    "road_lon": 145.0584304,
+    "distance": 35.72320150145592,
+    "walk_time": 25.516572501039942
+  },
+  {
+    "station_id": "train_vic:rail:GWY",
+    "station_name": "Glen Waverley Station",
+    "station_lat": -37.87974241,
+    "station_lon": 145.162893,
+    "road_node": "road_26517623",
+    "road_lat": -37.8798086,
+    "road_lon": 145.1623227,
+    "distance": 50.70754991826731,
+    "walk_time": 36.21967851304808
+  },
+  {
     "station_id": "train_vic:rail:GFE",
     "station_name": "Glenferrie Station",
     "station_lat": -37.82158336,
@@ -53,6 +460,61 @@
     "road_lon": 145.0360959,
     "distance": 78.46636949061904,
     "walk_time": 56.047406779013606
+  },
+  {
+    "station_id": "train_vic:rail:GRN",
+    "station_name": "Greensborough Station",
+    "station_lat": -37.70395099,
+    "station_lon": 145.10805466,
+    "road_node": "road_12347592851",
+    "road_lat": -37.7036769,
+    "road_lon": 145.1073111,
+    "distance": 72.28386516555162,
+    "walk_time": 51.6313322611083
+  },
+  {
+    "station_id": "train_vic:rail:HLM",
+    "station_name": "Hallam Station",
+    "station_lat": -38.01794675,
+    "station_lon": 145.26971499,
+    "road_node": "road_2117187867",
+    "road_lat": -38.0174282,
+    "road_lon": 145.2709087,
+    "distance": 119.58410765173507,
+    "walk_time": 85.41721975123934
+  },
+  {
+    "station_id": "train_vic:rail:HAM",
+    "station_name": "Hampton Station",
+    "station_lat": -37.93819338,
+    "station_lon": 145.00148746,
+    "road_node": "road_4992030866",
+    "road_lat": -37.9376285,
+    "road_lon": 145.0015242,
+    "distance": 62.78215306498852,
+    "walk_time": 44.844395046420374
+  },
+  {
+    "station_id": "train_vic:rail:HWL",
+    "station_name": "Hartwell Station",
+    "station_lat": -37.84384815,
+    "station_lon": 145.07548359,
+    "road_node": "road_309580569",
+    "road_lat": -37.8438579,
+    "road_lon": 145.0762281,
+    "distance": 65.53949093935407,
+    "walk_time": 46.81392209953862
+  },
+  {
+    "station_id": "train_vic:rail:HKN",
+    "station_name": "Hawksburn Station",
+    "station_lat": -37.84472941,
+    "station_lon": 145.00180876,
+    "road_node": "road_246371199",
+    "road_lat": -37.8447499,
+    "road_lon": 145.0015241,
+    "distance": 25.158015015519975,
+    "walk_time": 17.970010725371413
   },
   {
     "station_id": "train_vic:rail:HAW",
@@ -66,6 +528,39 @@
     "walk_time": 14.891201676921174
   },
   {
+    "station_id": "train_vic:rail:HTD",
+    "station_name": "Heatherdale Station",
+    "station_lat": -37.81873341,
+    "station_lon": 145.21458608,
+    "road_node": "road_100726156",
+    "road_lat": -37.8194004,
+    "road_lon": 145.2145814,
+    "distance": 74.03240493602473,
+    "walk_time": 52.88028924001767
+  },
+  {
+    "station_id": "train_vic:rail:HMT",
+    "station_name": "Heathmont Station",
+    "station_lat": -37.82849361,
+    "station_lon": 145.24456268,
+    "road_node": "road_811196984",
+    "road_lat": -37.8286998,
+    "road_lon": 145.245459,
+    "distance": 82.16060734552649,
+    "walk_time": 58.686148103947495
+  },
+  {
+    "station_id": "train_vic:rail:HDB",
+    "station_name": "Heidelberg Station",
+    "station_lat": -37.7571296,
+    "station_lon": 145.06084296,
+    "road_node": "road_9073393584",
+    "road_lat": -37.7576318,
+    "road_lon": 145.0613208,
+    "distance": 69.85717630101112,
+    "walk_time": 49.89798307215081
+  },
+  {
     "station_id": "train_vic:rail:HEY",
     "station_name": "Heyington Station",
     "station_lat": -37.83464428,
@@ -75,6 +570,83 @@
     "road_lon": 145.022045,
     "distance": 46.18774247205,
     "walk_time": 32.99124462289286
+  },
+  {
+    "station_id": "train_vic:rail:HIG",
+    "station_name": "Highett Station",
+    "station_lat": -37.9480226,
+    "station_lon": 145.04151832,
+    "road_node": "road_3222368411",
+    "road_lat": -37.9487254,
+    "road_lon": 145.0417727,
+    "distance": 81.1485854017058,
+    "walk_time": 57.96327528693272
+  },
+  {
+    "station_id": "train_vic:rail:HOL",
+    "station_name": "Holmesglen Station",
+    "station_lat": -37.87461617,
+    "station_lon": 145.089963,
+    "road_node": "road_315612070",
+    "road_lat": -37.8737737,
+    "road_lon": 145.0904973,
+    "distance": 104.66045304999501,
+    "walk_time": 74.75746646428216
+  },
+  {
+    "station_id": "train_vic:rail:HUG",
+    "station_name": "Hughesdale Station",
+    "station_lat": -37.89402172,
+    "station_lon": 145.07576971,
+    "road_node": "road_652263487",
+    "road_lat": -37.8940285,
+    "road_lon": 145.076307,
+    "distance": 47.26532421946322,
+    "walk_time": 33.76094587104516
+  },
+  {
+    "station_id": "train_vic:rail:HUN",
+    "station_name": "Huntingdale Station",
+    "station_lat": -37.91107194,
+    "station_lon": 145.10239704,
+    "road_node": "road_31424517",
+    "road_lat": -37.9112586,
+    "road_lon": 145.1023829,
+    "distance": 20.755569073230387,
+    "walk_time": 14.825406480878849
+  },
+  {
+    "station_id": "train_vic:rail:IVA",
+    "station_name": "Ivanhoe Station",
+    "station_lat": -37.76895098,
+    "station_lon": 145.04543511,
+    "road_node": "road_322696221",
+    "road_lat": -37.7692852,
+    "road_lon": 145.0449529,
+    "distance": 56.40184938220332,
+    "walk_time": 40.287035273002374
+  },
+  {
+    "station_id": "train_vic:rail:JOR",
+    "station_name": "Jordanville Station",
+    "station_lat": -37.87376273,
+    "station_lon": 145.11247263,
+    "road_node": "road_27289545",
+    "road_lat": -37.87421,
+    "road_lon": 145.1129165,
+    "distance": 63.16392486074292,
+    "walk_time": 45.11708918624495
+  },
+  {
+    "station_id": "train_vic:rail:KPK",
+    "station_name": "Keon Park Station",
+    "station_lat": -37.69575118,
+    "station_lon": 145.01175821,
+    "road_node": "road_328202186",
+    "road_lat": -37.6959607,
+    "road_lon": 145.0122389,
+    "distance": 48.35320462444738,
+    "walk_time": 34.5380033031767
   },
   {
     "station_id": "train_vic:rail:KYG",
@@ -88,6 +660,303 @@
     "walk_time": 23.60353686600754
   },
   {
+    "station_id": "train_vic:rail:LAB",
+    "station_name": "Laburnum Station",
+    "station_lat": -37.82062888,
+    "station_lon": 145.14082011,
+    "road_node": "road_1484553905",
+    "road_lat": -37.8207788,
+    "road_lon": 145.1402227,
+    "distance": 55.168816259302076,
+    "walk_time": 39.40629732807292
+  },
+  {
+    "station_id": "train_vic:rail:LAL",
+    "station_name": "Lalor Station",
+    "station_lat": -37.66587124,
+    "station_lon": 145.01734,
+    "road_node": "road_355270884",
+    "road_lat": -37.6657022,
+    "road_lon": 145.017789,
+    "distance": 43.833305921178564,
+    "walk_time": 31.30950422941326
+  },
+  {
+    "station_id": "train_vic:rail:LIL",
+    "station_name": "Lilydale Station",
+    "station_lat": -37.75541252,
+    "station_lon": 145.3479169,
+    "road_node": "road_10931187206",
+    "road_lat": -37.7568748,
+    "road_lon": 145.3469715,
+    "distance": 182.43464944236663,
+    "walk_time": 130.31046388740475
+  },
+  {
+    "station_id": "train_vic:rail:MCD",
+    "station_name": "Macleod Station",
+    "station_lat": -37.72652298,
+    "station_lon": 145.06895986,
+    "road_node": "road_309817674",
+    "road_lat": -37.7266544,
+    "road_lon": 145.068583,
+    "distance": 36.284111176204895,
+    "walk_time": 25.917222268717783
+  },
+  {
+    "station_id": "train_vic:rail:MAL",
+    "station_name": "Malvern Station",
+    "station_lat": -37.86643326,
+    "station_lon": 145.02927778,
+    "road_node": "road_10848296196",
+    "road_lat": -37.865916,
+    "road_lon": 145.0293789,
+    "distance": 58.09811574756543,
+    "walk_time": 41.49865410540388
+  },
+  {
+    "station_id": "train_vic:rail:MCK",
+    "station_name": "McKinnon Station",
+    "station_lat": -37.91147568,
+    "station_lon": 145.03800637,
+    "road_node": "road_266261506",
+    "road_lat": -37.9118726,
+    "road_lon": 145.0377223,
+    "distance": 50.64543225100128,
+    "walk_time": 36.1753087507152
+  },
+  {
+    "station_id": "train_vic:rail:MEN",
+    "station_name": "Mentone Station",
+    "station_lat": -37.98362356,
+    "station_lon": 145.06631522,
+    "road_node": "road_31656180",
+    "road_lat": -37.9836868,
+    "road_lon": 145.0666999,
+    "distance": 34.51617668792435,
+    "walk_time": 24.654411919945964
+  },
+  {
+    "station_id": "train_vic:rail:MCH",
+    "station_name": "Mitcham Station",
+    "station_lat": -37.81798383,
+    "station_lon": 145.19321242,
+    "road_node": "road_355105440",
+    "road_lat": -37.8181395,
+    "road_lon": 145.1938066,
+    "distance": 55.096313197426575,
+    "walk_time": 39.35450942673327
+  },
+  {
+    "station_id": "train_vic:rail:MMY",
+    "station_name": "Montmorency Station",
+    "station_lat": -37.7152528,
+    "station_lon": 145.12105171,
+    "road_node": "road_308452632",
+    "road_lat": -37.7149227,
+    "road_lon": 145.1212164,
+    "distance": 39.41080589462687,
+    "walk_time": 28.150575639019195
+  },
+  {
+    "station_id": "train_vic:rail:MRN",
+    "station_name": "Moorabbin Station",
+    "station_lat": -37.9345141,
+    "station_lon": 145.03665436,
+    "road_node": "road_307867763",
+    "road_lat": -37.9348931,
+    "road_lon": 145.0370687,
+    "distance": 55.64540563698611,
+    "walk_time": 39.74671831213294
+  },
+  {
+    "station_id": "train_vic:rail:MLK",
+    "station_name": "Mooroolbark Station",
+    "station_lat": -37.78470413,
+    "station_lon": 145.31368659,
+    "road_node": "road_310187920",
+    "road_lat": -37.7851464,
+    "road_lon": 145.3136648,
+    "distance": 49.126125876788706,
+    "walk_time": 35.09008991199193
+  },
+  {
+    "station_id": "train_vic:rail:MOR",
+    "station_name": "Mordialloc Station",
+    "station_lat": -38.00632554,
+    "station_lon": 145.08734715,
+    "road_node": "road_1590307853",
+    "road_lat": -38.0066649,
+    "road_lon": 145.0864451,
+    "distance": 87.72134135219935,
+    "walk_time": 62.65810096585668
+  },
+  {
+    "station_id": "train_vic:rail:MWY",
+    "station_name": "Mount Waverley Station",
+    "station_lat": -37.87533705,
+    "station_lon": 145.1280991,
+    "road_node": "road_141609459",
+    "road_lat": -37.875488,
+    "road_lon": 145.1288305,
+    "distance": 66.49461498171601,
+    "walk_time": 47.49615355836858
+  },
+  {
+    "station_id": "train_vic:rail:MRB",
+    "station_name": "Murrumbeena Station",
+    "station_lat": -37.89029026,
+    "station_lon": 145.06748618,
+    "road_node": "road_268057227",
+    "road_lat": -37.890676,
+    "road_lon": 145.0675949,
+    "distance": 43.870034514200476,
+    "walk_time": 31.335738938714627
+  },
+  {
+    "station_id": "train_vic:rail:NWA",
+    "station_name": "Narre Warren Station",
+    "station_lat": -38.02766369,
+    "station_lon": 145.30387021,
+    "road_node": "road_594071763",
+    "road_lat": -38.0280027,
+    "road_lon": 145.3037714,
+    "distance": 38.61621496849025,
+    "walk_time": 27.58301069177875
+  },
+  {
+    "station_id": "train_vic:rail:NPK",
+    "station_name": "Noble Park Station",
+    "station_lat": -37.96629632,
+    "station_lon": 145.17587747,
+    "road_node": "road_259174489",
+    "road_lat": -37.9666289,
+    "road_lon": 145.17667,
+    "distance": 78.82044418072046,
+    "walk_time": 56.300317271943186
+  },
+  {
+    "station_id": "train_vic:rail:NBN",
+    "station_name": "North Brighton Station",
+    "station_lat": -37.90469786,
+    "station_lon": 145.00259878,
+    "road_node": "road_305086105",
+    "road_lat": -37.9054953,
+    "road_lon": 145.0023419,
+    "distance": 91.34920168131754,
+    "walk_time": 65.24942977236968
+  },
+  {
+    "station_id": "train_vic:rail:NWG",
+    "station_name": "Nunawading Station",
+    "station_lat": -37.82045851,
+    "station_lon": 145.1748612,
+    "road_node": "road_737103624",
+    "road_lat": -37.8202141,
+    "road_lon": 145.1749658,
+    "distance": 28.64849186186318,
+    "walk_time": 20.463208472759415
+  },
+  {
+    "station_id": "train_vic:rail:OAK",
+    "station_name": "Oakleigh Station",
+    "station_lat": -37.90024252,
+    "station_lon": 145.08809514,
+    "road_node": "road_31422750",
+    "road_lat": -37.9000471,
+    "road_lon": 145.0884495,
+    "distance": 37.97142517055127,
+    "walk_time": 27.122446550393768
+  },
+  {
+    "station_id": "train_vic:rail:OMD",
+    "station_name": "Ormond Station",
+    "station_lat": -37.90418992,
+    "station_lon": 145.03937136,
+    "road_node": "road_314134260",
+    "road_lat": -37.9039624,
+    "road_lon": 145.0396889,
+    "distance": 37.65149476247886,
+    "walk_time": 26.893924830342044
+  },
+  {
+    "station_id": "train_vic:rail:PKD",
+    "station_name": "Parkdale Station",
+    "station_lat": -37.99290246,
+    "station_lon": 145.07601259,
+    "road_node": "road_308859855",
+    "road_lat": -37.9929514,
+    "road_lon": 145.0764933,
+    "distance": 42.573973510126415,
+    "walk_time": 30.409981078661726
+  },
+  {
+    "station_id": "train_vic:rail:PAT",
+    "station_name": "Patterson Station",
+    "station_lat": -37.92487071,
+    "station_lon": 145.03552294,
+    "road_node": "road_11445752776",
+    "road_lat": -37.9253365,
+    "road_lon": 145.0353021,
+    "distance": 55.22622372519219,
+    "walk_time": 39.44730266085157
+  },
+  {
+    "station_id": "train_vic:rail:PRE",
+    "station_name": "Preston Station",
+    "station_lat": -37.73886456,
+    "station_lon": 145.00058495,
+    "road_node": "road_311674964",
+    "road_lat": -37.73795,
+    "road_lon": 145.0001137,
+    "distance": 109.67832205889727,
+    "walk_time": 78.34165861349805
+  },
+  {
+    "station_id": "train_vic:rail:REG",
+    "station_name": "Regent Station",
+    "station_lat": -37.72848442,
+    "station_lon": 145.00280441,
+    "road_node": "road_311224256",
+    "road_lat": -37.7281953,
+    "road_lon": 145.0024256,
+    "distance": 46.313360231200484,
+    "walk_time": 33.08097159371464
+  },
+  {
+    "station_id": "train_vic:rail:RES",
+    "station_name": "Reservoir Station",
+    "station_lat": -37.71670648,
+    "station_lon": 145.0071027,
+    "road_node": "road_6735549547",
+    "road_lat": -37.7164505,
+    "road_lon": 145.0068809,
+    "distance": 34.491302462473925,
+    "walk_time": 24.636644616052806
+  },
+  {
+    "station_id": "train_vic:rail:RWE",
+    "station_name": "Ringwood East Station",
+    "station_lat": -37.81171674,
+    "station_lon": 145.25086705,
+    "road_node": "road_30686219",
+    "road_lat": -37.8118569,
+    "road_lon": 145.2513058,
+    "distance": 41.64923523444533,
+    "walk_time": 29.74945373888952
+  },
+  {
+    "station_id": "train_vic:rail:RWD",
+    "station_name": "Ringwood Station",
+    "station_lat": -37.81568389,
+    "station_lon": 145.22928003,
+    "road_node": "road_147224954",
+    "road_lat": -37.8162028,
+    "road_lon": 145.2293646,
+    "distance": 58.07476171158264,
+    "walk_time": 41.48197265113046
+  },
+  {
     "station_id": "train_vic:rail:RIV",
     "station_name": "Riversdale Station",
     "station_lat": -37.83129806,
@@ -99,6 +968,116 @@
     "walk_time": 121.39553463445212
   },
   {
+    "station_id": "train_vic:rail:ROS",
+    "station_name": "Rosanna Station",
+    "station_lat": -37.74315182,
+    "station_lon": 145.06631476,
+    "road_node": "road_373677429",
+    "road_lat": -37.7425895,
+    "road_lon": 145.0665156,
+    "distance": 64.87455600647579,
+    "walk_time": 46.338968576054135
+  },
+  {
+    "station_id": "train_vic:rail:RUT",
+    "station_name": "Ruthven Station",
+    "station_lat": -37.70791498,
+    "station_lon": 145.00948212,
+    "road_node": "road_316758288",
+    "road_lat": -37.7078015,
+    "road_lon": 145.0091206,
+    "distance": 34.27673652057649,
+    "walk_time": 24.48338322898321
+  },
+  {
+    "station_id": "train_vic:rail:SNP",
+    "station_name": "Sandown Park Station",
+    "station_lat": -37.95649396,
+    "station_lon": 145.16272372,
+    "road_node": "road_3542761284",
+    "road_lat": -37.9562033,
+    "road_lon": 145.1627844,
+    "distance": 32.69977777683184,
+    "walk_time": 23.356984126308458
+  },
+  {
+    "station_id": "train_vic:rail:SHM",
+    "station_name": "Sandringham Station",
+    "station_lat": -37.95028398,
+    "station_lon": 145.00449433,
+    "road_node": "road_6206786185",
+    "road_lat": -37.9504005,
+    "road_lon": 145.0042089,
+    "distance": 28.22447451117444,
+    "walk_time": 20.16033893655317
+  },
+  {
+    "station_id": "train_vic:rail:SOU",
+    "station_name": "Southland Station",
+    "station_lat": -37.95912748,
+    "station_lon": 145.04925898,
+    "road_node": "road_317852990",
+    "road_lat": -37.9589233,
+    "road_lon": 145.0484394,
+    "distance": 75.50713031817358,
+    "walk_time": 53.93366451298113
+  },
+  {
+    "station_id": "train_vic:rail:SPG",
+    "station_name": "Springvale Station",
+    "station_lat": -37.94922649,
+    "station_lon": 145.15326543,
+    "road_node": "road_2151205137",
+    "road_lat": -37.9495795,
+    "road_lon": 145.153065,
+    "distance": 42.96051978965865,
+    "walk_time": 30.686085564041893
+  },
+  {
+    "station_id": "train_vic:rail:SYN",
+    "station_name": "Syndal Station",
+    "station_lat": -37.87628768,
+    "station_lon": 145.14946069,
+    "road_node": "road_26453209",
+    "road_lat": -37.8766836,
+    "road_lon": 145.1494831,
+    "distance": 43.989007213722196,
+    "walk_time": 31.420719438373
+  },
+  {
+    "station_id": "train_vic:rail:TCM",
+    "station_name": "Tecoma Station",
+    "station_lat": -37.90809018,
+    "station_lon": 145.34290422,
+    "road_node": "road_96341623",
+    "road_lat": -37.9077049,
+    "road_lon": 145.3428134,
+    "distance": 43.50350354313055,
+    "walk_time": 31.07393110223611
+  },
+  {
+    "station_id": "train_vic:rail:TSN",
+    "station_name": "Thomastown Station",
+    "station_lat": -37.68032122,
+    "station_lon": 145.01434735,
+    "road_node": "road_355075795",
+    "road_lat": -37.6803438,
+    "road_lon": 145.0148182,
+    "distance": 41.610327076677486,
+    "walk_time": 29.721662197626777
+  },
+  {
+    "station_id": "train_vic:rail:TOR",
+    "station_name": "Toorak Station",
+    "station_lat": -37.85083188,
+    "station_lon": 145.01361153,
+    "road_node": "road_3134395430",
+    "road_lat": -37.8509502,
+    "road_lon": 145.0143684,
+    "distance": 67.89437150421512,
+    "walk_time": 48.49597964586794
+  },
+  {
     "station_id": "train_vic:rail:TGA",
     "station_name": "Tooronga Station",
     "station_lat": -37.84913467,
@@ -108,5 +1087,93 @@
     "road_lon": 145.0407382,
     "distance": 60.646593977271934,
     "walk_time": 43.31899569805138
+  },
+  {
+    "station_id": "train_vic:rail:UNN",
+    "station_name": "Union Station",
+    "station_lat": -37.82247773,
+    "station_lon": 145.10137376,
+    "road_node": "road_317123007",
+    "road_lat": -37.8217964,
+    "road_lon": 145.1017889,
+    "distance": 83.99273379432641,
+    "walk_time": 59.994809853090295
+  },
+  {
+    "station_id": "train_vic:rail:UFG",
+    "station_name": "Upper Ferntree Gully Station",
+    "station_lat": -37.89259619,
+    "station_lon": 145.3072931,
+    "road_node": "road_266639304",
+    "road_lat": -37.892246,
+    "road_lon": 145.3075916,
+    "distance": 46.90629636082868,
+    "walk_time": 33.504497400591916
+  },
+  {
+    "station_id": "train_vic:rail:UPW",
+    "station_name": "Upwey Station",
+    "station_lat": -37.90371012,
+    "station_lon": 145.33141254,
+    "road_node": "road_266615134",
+    "road_lat": -37.9039055,
+    "road_lon": 145.3313378,
+    "distance": 22.660427606444564,
+    "walk_time": 16.186019718888975
+  },
+  {
+    "station_id": "train_vic:rail:WAT",
+    "station_name": "Watsonia Station",
+    "station_lat": -37.71102048,
+    "station_lon": 145.08375774,
+    "road_node": "road_5382449434",
+    "road_lat": -37.7110355,
+    "road_lon": 145.0826961,
+    "distance": 93.62600477636751,
+    "walk_time": 66.87571769740536
+  },
+  {
+    "station_id": "train_vic:rail:WTT",
+    "station_name": "Wattle Glen Station",
+    "station_lat": -37.66400518,
+    "station_lon": 145.18169298,
+    "road_node": "road_7472691414",
+    "road_lat": -37.6649206,
+    "road_lon": 145.1818147,
+    "distance": 102.16860213643737,
+    "walk_time": 72.97757295459813
+  },
+  {
+    "station_id": "train_vic:rail:WTL",
+    "station_name": "Westall Station",
+    "station_lat": -37.93797487,
+    "station_lon": 145.13809465,
+    "road_node": "road_580016967",
+    "road_lat": -37.938337,
+    "road_lon": 145.1376817,
+    "distance": 54.16057877167988,
+    "walk_time": 38.686127694057056
+  },
+  {
+    "station_id": "train_vic:rail:WSN",
+    "station_name": "Willison Station",
+    "station_lat": -37.83566968,
+    "station_lon": 145.07024194,
+    "road_node": "road_312427093",
+    "road_lat": -37.8351943,
+    "road_lon": 145.069694,
+    "distance": 71.48837018338672,
+    "walk_time": 51.06312155956195
+  },
+  {
+    "station_id": "train_vic:rail:YMN",
+    "station_name": "Yarraman Station",
+    "station_lat": -37.97773178,
+    "station_lon": 145.1910097,
+    "road_node": "road_259176060",
+    "road_lat": -37.9782068,
+    "road_lon": 145.1922728,
+    "distance": 122.8628155874808,
+    "walk_time": 87.75915399105772
   }
 ]

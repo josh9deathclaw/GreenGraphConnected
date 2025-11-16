@@ -1,9 +1,93 @@
 [
   {
+    "id": "train_vic:rail:ALM",
+    "name": "Alamein Station",
+    "lat": -37.86818601,
+    "lon": 145.07970463,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:ALP",
+    "name": "Alphington Station",
+    "lat": -37.77844825,
+    "lon": 145.03128755,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:ARM",
+    "name": "Armadale Station",
+    "lat": -37.85624829,
+    "lon": 145.01897865,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:ASH",
+    "name": "Ashburton Station",
+    "lat": -37.86193224,
+    "lon": 145.08139014,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:ASP",
+    "name": "Aspendale Station",
+    "lat": -38.02710953,
+    "lon": 145.10199298,
+    "node_type": "train_station"
+  },
+  {
     "id": "train_vic:rail:AUB",
     "name": "Auburn Station",
     "lat": -37.82255502,
     "lon": 145.04605538,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:BAY",
+    "name": "Bayswater Station",
+    "lat": -37.84186584,
+    "lon": 145.26817867,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:BEG",
+    "name": "Belgrave Station",
+    "lat": -37.9091367,
+    "lon": 145.35518814,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:BEL",
+    "name": "Bell Station",
+    "lat": -37.74603438,
+    "lon": 145.0003693,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:BEN",
+    "name": "Bentleigh Station",
+    "lat": -37.91709091,
+    "lon": 145.03698125,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:BBN",
+    "name": "Blackburn Station",
+    "lat": -37.82019776,
+    "lon": 145.15006717,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:BOR",
+    "name": "Boronia Station",
+    "lat": -37.86052901,
+    "lon": 145.28473574,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:BOX",
+    "name": "Box Hill Station",
+    "lat": -37.81934528,
+    "lon": 145.12183478,
     "node_type": "train_station"
   },
   {
@@ -14,10 +98,108 @@
     "node_type": "train_station"
   },
   {
+    "id": "train_vic:rail:BWD",
+    "name": "Burwood Station",
+    "lat": -37.85162801,
+    "lon": 145.08061168,
+    "node_type": "train_station"
+  },
+  {
     "id": "train_vic:rail:CAM",
     "name": "Camberwell Station",
     "lat": -37.82668783,
     "lon": 145.05836453,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:CBY",
+    "name": "Canterbury Station",
+    "lat": -37.82471032,
+    "lon": 145.08066171,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:CNE",
+    "name": "Carnegie Station",
+    "lat": -37.886334,
+    "lon": 145.05872045,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:CFD",
+    "name": "Caulfield Station",
+    "lat": -37.87736201,
+    "lon": 145.04208396,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:CHM",
+    "name": "Chatham Station",
+    "lat": -37.82426367,
+    "lon": 145.08866022,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:CTM",
+    "name": "Cheltenham Station",
+    "lat": -37.96662137,
+    "lon": 145.05446762,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:CLA",
+    "name": "Clayton Station",
+    "lat": -37.92473123,
+    "lon": 145.12076066,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:CDN",
+    "name": "Croydon Station",
+    "lat": -37.79536639,
+    "lon": 145.28070162,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:DNG",
+    "name": "Dandenong Station",
+    "lat": -37.99014081,
+    "lon": 145.20983503,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:DBN",
+    "name": "Darebin Station",
+    "lat": -37.77491182,
+    "lon": 145.03862494,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:DLG",
+    "name": "Darling Station",
+    "lat": -37.86894634,
+    "lon": 145.06286016,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:DEN",
+    "name": "Dennis Station",
+    "lat": -37.77924153,
+    "lon": 145.00825153,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:DCK",
+    "name": "Diamond Creek Station",
+    "lat": -37.67336015,
+    "lon": 145.15848196,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:EAG",
+    "name": "Eaglemont Station",
+    "lat": -37.76372873,
+    "lon": 145.05388218,
     "node_type": "train_station"
   },
   {
@@ -28,10 +210,122 @@
     "node_type": "train_station"
   },
   {
+    "id": "train_vic:rail:EMV",
+    "name": "East Malvern Station",
+    "lat": -37.87688031,
+    "lon": 145.06911007,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:ELS",
+    "name": "Elsternwick Station",
+    "lat": -37.88476077,
+    "lon": 145.00081807,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:ELT",
+    "name": "Eltham Station",
+    "lat": -37.71340714,
+    "lon": 145.14792767,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:EPP",
+    "name": "Epping Station",
+    "lat": -37.65221073,
+    "lon": 145.03142985,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:FFD",
+    "name": "Fairfield Station",
+    "lat": -37.77923565,
+    "lon": 145.01698306,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:FTG",
+    "name": "Ferntree Gully Station",
+    "lat": -37.88134219,
+    "lon": 145.29495246,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:GVE",
+    "name": "Gardenvale Station",
+    "lat": -37.89662205,
+    "lon": 145.00411355,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:GAR",
+    "name": "Gardiner Station",
+    "lat": -37.8528872,
+    "lon": 145.05084666,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:GHY",
+    "name": "Glen Huntly Station",
+    "lat": -37.89018352,
+    "lon": 145.04194902,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:GIR",
+    "name": "Glen Iris Station",
+    "lat": -37.85924349,
+    "lon": 145.05811294,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:GWY",
+    "name": "Glen Waverley Station",
+    "lat": -37.87974241,
+    "lon": 145.162893,
+    "node_type": "train_station"
+  },
+  {
     "id": "train_vic:rail:GFE",
     "name": "Glenferrie Station",
     "lat": -37.82158336,
     "lon": 145.03640166,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:GRN",
+    "name": "Greensborough Station",
+    "lat": -37.70395099,
+    "lon": 145.10805466,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:HLM",
+    "name": "Hallam Station",
+    "lat": -38.01794675,
+    "lon": 145.26971499,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:HAM",
+    "name": "Hampton Station",
+    "lat": -37.93819338,
+    "lon": 145.00148746,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:HWL",
+    "name": "Hartwell Station",
+    "lat": -37.84384815,
+    "lon": 145.07548359,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:HKN",
+    "name": "Hawksburn Station",
+    "lat": -37.84472941,
+    "lon": 145.00180876,
     "node_type": "train_station"
   },
   {
@@ -42,10 +336,80 @@
     "node_type": "train_station"
   },
   {
+    "id": "train_vic:rail:HTD",
+    "name": "Heatherdale Station",
+    "lat": -37.81873341,
+    "lon": 145.21458608,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:HMT",
+    "name": "Heathmont Station",
+    "lat": -37.82849361,
+    "lon": 145.24456268,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:HDB",
+    "name": "Heidelberg Station",
+    "lat": -37.7571296,
+    "lon": 145.06084296,
+    "node_type": "train_station"
+  },
+  {
     "id": "train_vic:rail:HEY",
     "name": "Heyington Station",
     "lat": -37.83464428,
     "lon": 145.02256785,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:HIG",
+    "name": "Highett Station",
+    "lat": -37.9480226,
+    "lon": 145.04151832,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:HOL",
+    "name": "Holmesglen Station",
+    "lat": -37.87461617,
+    "lon": 145.089963,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:HUG",
+    "name": "Hughesdale Station",
+    "lat": -37.89402172,
+    "lon": 145.07576971,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:HUN",
+    "name": "Huntingdale Station",
+    "lat": -37.91107194,
+    "lon": 145.10239704,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:IVA",
+    "name": "Ivanhoe Station",
+    "lat": -37.76895098,
+    "lon": 145.04543511,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:JOR",
+    "name": "Jordanville Station",
+    "lat": -37.87376273,
+    "lon": 145.11247263,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:KPK",
+    "name": "Keon Park Station",
+    "lat": -37.69575118,
+    "lon": 145.01175821,
     "node_type": "train_station"
   },
   {
@@ -56,6 +420,195 @@
     "node_type": "train_station"
   },
   {
+    "id": "train_vic:rail:LAB",
+    "name": "Laburnum Station",
+    "lat": -37.82062888,
+    "lon": 145.14082011,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:LAL",
+    "name": "Lalor Station",
+    "lat": -37.66587124,
+    "lon": 145.01734,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:LIL",
+    "name": "Lilydale Station",
+    "lat": -37.75541252,
+    "lon": 145.3479169,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:MCD",
+    "name": "Macleod Station",
+    "lat": -37.72652298,
+    "lon": 145.06895986,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:MAL",
+    "name": "Malvern Station",
+    "lat": -37.86643326,
+    "lon": 145.02927778,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:MCK",
+    "name": "McKinnon Station",
+    "lat": -37.91147568,
+    "lon": 145.03800637,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:MEN",
+    "name": "Mentone Station",
+    "lat": -37.98362356,
+    "lon": 145.06631522,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:MCH",
+    "name": "Mitcham Station",
+    "lat": -37.81798383,
+    "lon": 145.19321242,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:MMY",
+    "name": "Montmorency Station",
+    "lat": -37.7152528,
+    "lon": 145.12105171,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:MRN",
+    "name": "Moorabbin Station",
+    "lat": -37.9345141,
+    "lon": 145.03665436,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:MLK",
+    "name": "Mooroolbark Station",
+    "lat": -37.78470413,
+    "lon": 145.31368659,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:MOR",
+    "name": "Mordialloc Station",
+    "lat": -38.00632554,
+    "lon": 145.08734715,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:MWY",
+    "name": "Mount Waverley Station",
+    "lat": -37.87533705,
+    "lon": 145.1280991,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:MRB",
+    "name": "Murrumbeena Station",
+    "lat": -37.89029026,
+    "lon": 145.06748618,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:NWA",
+    "name": "Narre Warren Station",
+    "lat": -38.02766369,
+    "lon": 145.30387021,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:NPK",
+    "name": "Noble Park Station",
+    "lat": -37.96629632,
+    "lon": 145.17587747,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:NBN",
+    "name": "North Brighton Station",
+    "lat": -37.90469786,
+    "lon": 145.00259878,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:NWG",
+    "name": "Nunawading Station",
+    "lat": -37.82045851,
+    "lon": 145.1748612,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:OAK",
+    "name": "Oakleigh Station",
+    "lat": -37.90024252,
+    "lon": 145.08809514,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:OMD",
+    "name": "Ormond Station",
+    "lat": -37.90418992,
+    "lon": 145.03937136,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:PKD",
+    "name": "Parkdale Station",
+    "lat": -37.99290246,
+    "lon": 145.07601259,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:PAT",
+    "name": "Patterson Station",
+    "lat": -37.92487071,
+    "lon": 145.03552294,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:PRE",
+    "name": "Preston Station",
+    "lat": -37.73886456,
+    "lon": 145.00058495,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:REG",
+    "name": "Regent Station",
+    "lat": -37.72848442,
+    "lon": 145.00280441,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:RES",
+    "name": "Reservoir Station",
+    "lat": -37.71670648,
+    "lon": 145.0071027,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:RWE",
+    "name": "Ringwood East Station",
+    "lat": -37.81171674,
+    "lon": 145.25086705,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:RWD",
+    "name": "Ringwood Station",
+    "lat": -37.81568389,
+    "lon": 145.22928003,
+    "node_type": "train_station"
+  },
+  {
     "id": "train_vic:rail:RIV",
     "name": "Riversdale Station",
     "lat": -37.83129806,
@@ -63,10 +616,136 @@
     "node_type": "train_station"
   },
   {
+    "id": "train_vic:rail:ROS",
+    "name": "Rosanna Station",
+    "lat": -37.74315182,
+    "lon": 145.06631476,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:RUT",
+    "name": "Ruthven Station",
+    "lat": -37.70791498,
+    "lon": 145.00948212,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:SNP",
+    "name": "Sandown Park Station",
+    "lat": -37.95649396,
+    "lon": 145.16272372,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:SHM",
+    "name": "Sandringham Station",
+    "lat": -37.95028398,
+    "lon": 145.00449433,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:SOU",
+    "name": "Southland Station",
+    "lat": -37.95912748,
+    "lon": 145.04925898,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:SPG",
+    "name": "Springvale Station",
+    "lat": -37.94922649,
+    "lon": 145.15326543,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:SYN",
+    "name": "Syndal Station",
+    "lat": -37.87628768,
+    "lon": 145.14946069,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:TCM",
+    "name": "Tecoma Station",
+    "lat": -37.90809018,
+    "lon": 145.34290422,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:TSN",
+    "name": "Thomastown Station",
+    "lat": -37.68032122,
+    "lon": 145.01434735,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:TOR",
+    "name": "Toorak Station",
+    "lat": -37.85083188,
+    "lon": 145.01361153,
+    "node_type": "train_station"
+  },
+  {
     "id": "train_vic:rail:TGA",
     "name": "Tooronga Station",
     "lat": -37.84913467,
     "lon": 145.0413989,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:UNN",
+    "name": "Union Station",
+    "lat": -37.82247773,
+    "lon": 145.10137376,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:UFG",
+    "name": "Upper Ferntree Gully Station",
+    "lat": -37.89259619,
+    "lon": 145.3072931,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:UPW",
+    "name": "Upwey Station",
+    "lat": -37.90371012,
+    "lon": 145.33141254,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:WAT",
+    "name": "Watsonia Station",
+    "lat": -37.71102048,
+    "lon": 145.08375774,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:WTT",
+    "name": "Wattle Glen Station",
+    "lat": -37.66400518,
+    "lon": 145.18169298,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:WTL",
+    "name": "Westall Station",
+    "lat": -37.93797487,
+    "lon": 145.13809465,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:WSN",
+    "name": "Willison Station",
+    "lat": -37.83566968,
+    "lon": 145.07024194,
+    "node_type": "train_station"
+  },
+  {
+    "id": "train_vic:rail:YMN",
+    "name": "Yarraman Station",
+    "lat": -37.97773178,
+    "lon": 145.1910097,
     "node_type": "train_station"
   }
 ]

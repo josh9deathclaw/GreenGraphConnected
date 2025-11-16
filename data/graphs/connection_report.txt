@@ -2,16 +2,56 @@
 CAR TO PT CONNECTION REPORT
 ============================================================
 
-Total train stations: 10
-Stations connected: 10
+Total train stations: 107
+Stations connected: 107
 Stations not connected: 0
-Max walking distance: 300m
+Max walking distance: 2000m
 
 ============================================================
 CONNECTION DETAILS
 ============================================================
 
-1. Auburn Station
+1. Alamein Station
+   Station ID: train_vic:rail:ALM
+   Station Location: (-37.868186, 145.079705)
+   Connected to Road Node: road_30288120
+   Road Location: (-37.868215, 145.079904)
+   Walking Distance: 17.8m
+   Walking Time: 0.2 minutes
+
+2. Alphington Station
+   Station ID: train_vic:rail:ALP
+   Station Location: (-37.778448, 145.031288)
+   Connected to Road Node: road_10828791213
+   Road Location: (-37.777921, 145.031562)
+   Walking Distance: 63.3m
+   Walking Time: 0.8 minutes
+
+3. Armadale Station
+   Station ID: train_vic:rail:ARM
+   Station Location: (-37.856248, 145.018979)
+   Connected to Road Node: road_306406009
+   Road Location: (-37.856541, 145.018890)
+   Walking Distance: 33.4m
+   Walking Time: 0.4 minutes
+
+4. Ashburton Station
+   Station ID: train_vic:rail:ASH
+   Station Location: (-37.861932, 145.081390)
+   Connected to Road Node: road_1746555955
+   Road Location: (-37.862104, 145.081740)
+   Walking Distance: 36.2m
+   Walking Time: 0.4 minutes
+
+5. Aspendale Station
+   Station ID: train_vic:rail:ASP
+   Station Location: (-38.027110, 145.101993)
+   Connected to Road Node: road_316546544
+   Road Location: (-38.027367, 145.101940)
+   Walking Distance: 29.0m
+   Walking Time: 0.3 minutes
+
+6. Auburn Station
    Station ID: train_vic:rail:AUB
    Station Location: (-37.822555, 145.046055)
    Connected to Road Node: road_2170492194
@@ -19,7 +59,63 @@ CONNECTION DETAILS
    Walking Distance: 46.3m
    Walking Time: 0.6 minutes
 
-2. Burnley Station
+7. Bayswater Station
+   Station ID: train_vic:rail:BAY
+   Station Location: (-37.841866, 145.268179)
+   Connected to Road Node: road_266325964
+   Road Location: (-37.842912, 145.268329)
+   Walking Distance: 116.9m
+   Walking Time: 1.4 minutes
+
+8. Belgrave Station
+   Station ID: train_vic:rail:BEG
+   Station Location: (-37.909137, 145.355188)
+   Connected to Road Node: road_33999535
+   Road Location: (-37.908687, 145.354828)
+   Walking Distance: 59.1m
+   Walking Time: 0.7 minutes
+
+9. Bell Station
+   Station ID: train_vic:rail:BEL
+   Station Location: (-37.746034, 145.000369)
+   Connected to Road Node: road_226444122
+   Road Location: (-37.744931, 145.000792)
+   Walking Distance: 128.0m
+   Walking Time: 1.5 minutes
+
+10. Bentleigh Station
+   Station ID: train_vic:rail:BEN
+   Station Location: (-37.917091, 145.036981)
+   Connected to Road Node: road_2294218385
+   Road Location: (-37.917183, 145.037295)
+   Walking Distance: 29.5m
+   Walking Time: 0.4 minutes
+
+11. Blackburn Station
+   Station ID: train_vic:rail:BBN
+   Station Location: (-37.820198, 145.150067)
+   Connected to Road Node: road_30004816
+   Road Location: (-37.820576, 145.150126)
+   Walking Distance: 42.3m
+   Walking Time: 0.5 minutes
+
+12. Boronia Station
+   Station ID: train_vic:rail:BOR
+   Station Location: (-37.860529, 145.284736)
+   Connected to Road Node: road_614128296
+   Road Location: (-37.860665, 145.284065)
+   Walking Distance: 60.9m
+   Walking Time: 0.7 minutes
+
+13. Box Hill Station
+   Station ID: train_vic:rail:BOX
+   Station Location: (-37.819345, 145.121835)
+   Connected to Road Node: road_267200018
+   Road Location: (-37.818328, 145.121073)
+   Walking Distance: 131.4m
+   Walking Time: 1.6 minutes
+
+14. Burnley Station
    Station ID: train_vic:rail:BLY
    Station Location: (-37.827688, 145.007654)
    Connected to Road Node: road_247129318
@@ -27,7 +123,15 @@ CONNECTION DETAILS
    Walking Distance: 42.3m
    Walking Time: 0.5 minutes
 
-3. Camberwell Station
+15. Burwood Station
+   Station ID: train_vic:rail:BWD
+   Station Location: (-37.851628, 145.080612)
+   Connected to Road Node: road_1893261192
+   Road Location: (-37.851967, 145.080312)
+   Walking Distance: 45.9m
+   Walking Time: 0.5 minutes
+
+16. Camberwell Station
    Station ID: train_vic:rail:CAM
    Station Location: (-37.826688, 145.058365)
    Connected to Road Node: road_311406316
@@ -35,7 +139,111 @@ CONNECTION DETAILS
    Walking Distance: 60.1m
    Walking Time: 0.7 minutes
 
-4. East Camberwell Station
+17. Canterbury Station
+   Station ID: train_vic:rail:CBY
+   Station Location: (-37.824710, 145.080662)
+   Connected to Road Node: road_310687898
+   Road Location: (-37.825451, 145.080354)
+   Walking Distance: 86.5m
+   Walking Time: 1.0 minutes
+
+18. Carnegie Station
+   Station ID: train_vic:rail:CNE
+   Station Location: (-37.886334, 145.058720)
+   Connected to Road Node: road_266417345
+   Road Location: (-37.886624, 145.058566)
+   Walking Distance: 34.9m
+   Walking Time: 0.4 minutes
+
+19. Caulfield Station
+   Station ID: train_vic:rail:CFD
+   Station Location: (-37.877362, 145.042084)
+   Connected to Road Node: road_10848226035
+   Road Location: (-37.877491, 145.041715)
+   Walking Distance: 35.5m
+   Walking Time: 0.4 minutes
+
+20. Chatham Station
+   Station ID: train_vic:rail:CHM
+   Station Location: (-37.824264, 145.088660)
+   Connected to Road Node: road_314486114
+   Road Location: (-37.824057, 145.088615)
+   Walking Distance: 23.3m
+   Walking Time: 0.3 minutes
+
+21. Cheltenham Station
+   Station ID: train_vic:rail:CTM
+   Station Location: (-37.966621, 145.054468)
+   Connected to Road Node: road_2156660908
+   Road Location: (-37.966960, 145.055399)
+   Walking Distance: 90.1m
+   Walking Time: 1.1 minutes
+
+22. Clayton Station
+   Station ID: train_vic:rail:CLA
+   Station Location: (-37.924731, 145.120761)
+   Connected to Road Node: road_1662260318
+   Road Location: (-37.924750, 145.121157)
+   Walking Distance: 34.9m
+   Walking Time: 0.4 minutes
+
+23. Croydon Station
+   Station ID: train_vic:rail:CDN
+   Station Location: (-37.795366, 145.280702)
+   Connected to Road Node: road_11993368760
+   Road Location: (-37.795592, 145.280438)
+   Walking Distance: 34.1m
+   Walking Time: 0.4 minutes
+
+24. Dandenong Station
+   Station ID: train_vic:rail:DNG
+   Station Location: (-37.990141, 145.209835)
+   Connected to Road Node: road_319116237
+   Road Location: (-37.990838, 145.209112)
+   Walking Distance: 100.1m
+   Walking Time: 1.2 minutes
+
+25. Darebin Station
+   Station ID: train_vic:rail:DBN
+   Station Location: (-37.774912, 145.038625)
+   Connected to Road Node: road_322703920
+   Road Location: (-37.774943, 145.039312)
+   Walking Distance: 60.6m
+   Walking Time: 0.7 minutes
+
+26. Darling Station
+   Station ID: train_vic:rail:DLG
+   Station Location: (-37.868946, 145.062860)
+   Connected to Road Node: road_309272987
+   Road Location: (-37.869115, 145.062459)
+   Walking Distance: 39.9m
+   Walking Time: 0.5 minutes
+
+27. Dennis Station
+   Station ID: train_vic:rail:DEN
+   Station Location: (-37.779242, 145.008252)
+   Connected to Road Node: road_246939620
+   Road Location: (-37.779017, 145.007928)
+   Walking Distance: 37.8m
+   Walking Time: 0.5 minutes
+
+28. Diamond Creek Station
+   Station ID: train_vic:rail:DCK
+   Station Location: (-37.673360, 145.158482)
+   Connected to Road Node: road_685099772
+   Road Location: (-37.674292, 145.157435)
+   Walking Distance: 138.7m
+   Walking Time: 1.7 minutes
+
+29. Eaglemont Station
+   Station ID: train_vic:rail:EAG
+   Station Location: (-37.763729, 145.053882)
+   Connected to Road Node: road_322691043
+   Road Location: (-37.764400, 145.053848)
+   Walking Distance: 74.6m
+   Walking Time: 0.9 minutes
+
+30. East Camberwell Station
    Station ID: train_vic:rail:ECM
    Station Location: (-37.825841, 145.068248)
    Connected to Road Node: road_311436148
@@ -43,7 +251,95 @@ CONNECTION DETAILS
    Walking Distance: 68.4m
    Walking Time: 0.8 minutes
 
-5. Glenferrie Station
+31. East Malvern Station
+   Station ID: train_vic:rail:EMV
+   Station Location: (-37.876880, 145.069110)
+   Connected to Road Node: road_992485750
+   Road Location: (-37.878016, 145.070069)
+   Walking Distance: 151.7m
+   Walking Time: 1.8 minutes
+
+32. Elsternwick Station
+   Station ID: train_vic:rail:ELS
+   Station Location: (-37.884761, 145.000818)
+   Connected to Road Node: road_12395292420
+   Road Location: (-37.885056, 145.000368)
+   Walking Distance: 51.4m
+   Walking Time: 0.6 minutes
+
+33. Eltham Station
+   Station ID: train_vic:rail:ELT
+   Station Location: (-37.713407, 145.147928)
+   Connected to Road Node: road_2080805322
+   Road Location: (-37.713612, 145.148526)
+   Walking Distance: 57.4m
+   Walking Time: 0.7 minutes
+
+34. Epping Station
+   Station ID: train_vic:rail:EPP
+   Station Location: (-37.652211, 145.031430)
+   Connected to Road Node: road_1588110344
+   Road Location: (-37.652617, 145.031608)
+   Walking Distance: 47.7m
+   Walking Time: 0.6 minutes
+
+35. Fairfield Station
+   Station ID: train_vic:rail:FFD
+   Station Location: (-37.779236, 145.016983)
+   Connected to Road Node: road_5593507269
+   Road Location: (-37.779476, 145.016896)
+   Walking Distance: 27.8m
+   Walking Time: 0.3 minutes
+
+36. Ferntree Gully Station
+   Station ID: train_vic:rail:FTG
+   Station Location: (-37.881342, 145.294952)
+   Connected to Road Node: road_335617589
+   Road Location: (-37.881685, 145.294443)
+   Walking Distance: 58.8m
+   Walking Time: 0.7 minutes
+
+37. Gardenvale Station
+   Station ID: train_vic:rail:GVE
+   Station Location: (-37.896622, 145.004114)
+   Connected to Road Node: road_7324602081
+   Road Location: (-37.896470, 145.004610)
+   Walking Distance: 46.8m
+   Walking Time: 0.6 minutes
+
+38. Gardiner Station
+   Station ID: train_vic:rail:GAR
+   Station Location: (-37.852887, 145.050847)
+   Connected to Road Node: road_5829154314
+   Road Location: (-37.853291, 145.051335)
+   Walking Distance: 62.1m
+   Walking Time: 0.7 minutes
+
+39. Glen Huntly Station
+   Station ID: train_vic:rail:GHY
+   Station Location: (-37.890184, 145.041949)
+   Connected to Road Node: road_266265755
+   Road Location: (-37.890576, 145.042364)
+   Walking Distance: 56.9m
+   Walking Time: 0.7 minutes
+
+40. Glen Iris Station
+   Station ID: train_vic:rail:GIR
+   Station Location: (-37.859243, 145.058113)
+   Connected to Road Node: road_276590834
+   Road Location: (-37.859043, 145.058430)
+   Walking Distance: 35.7m
+   Walking Time: 0.4 minutes
+
+41. Glen Waverley Station
+   Station ID: train_vic:rail:GWY
+   Station Location: (-37.879742, 145.162893)
+   Connected to Road Node: road_26517623
+   Road Location: (-37.879809, 145.162323)
+   Walking Distance: 50.7m
+   Walking Time: 0.6 minutes
+
+42. Glenferrie Station
    Station ID: train_vic:rail:GFE
    Station Location: (-37.821583, 145.036402)
    Connected to Road Node: road_598491771
@@ -51,7 +347,47 @@ CONNECTION DETAILS
    Walking Distance: 78.5m
    Walking Time: 0.9 minutes
 
-6. Hawthorn Station
+43. Greensborough Station
+   Station ID: train_vic:rail:GRN
+   Station Location: (-37.703951, 145.108055)
+   Connected to Road Node: road_12347592851
+   Road Location: (-37.703677, 145.107311)
+   Walking Distance: 72.3m
+   Walking Time: 0.9 minutes
+
+44. Hallam Station
+   Station ID: train_vic:rail:HLM
+   Station Location: (-38.017947, 145.269715)
+   Connected to Road Node: road_2117187867
+   Road Location: (-38.017428, 145.270909)
+   Walking Distance: 119.6m
+   Walking Time: 1.4 minutes
+
+45. Hampton Station
+   Station ID: train_vic:rail:HAM
+   Station Location: (-37.938193, 145.001487)
+   Connected to Road Node: road_4992030866
+   Road Location: (-37.937629, 145.001524)
+   Walking Distance: 62.8m
+   Walking Time: 0.7 minutes
+
+46. Hartwell Station
+   Station ID: train_vic:rail:HWL
+   Station Location: (-37.843848, 145.075484)
+   Connected to Road Node: road_309580569
+   Road Location: (-37.843858, 145.076228)
+   Walking Distance: 65.5m
+   Walking Time: 0.8 minutes
+
+47. Hawksburn Station
+   Station ID: train_vic:rail:HKN
+   Station Location: (-37.844729, 145.001809)
+   Connected to Road Node: road_246371199
+   Road Location: (-37.844750, 145.001524)
+   Walking Distance: 25.2m
+   Walking Time: 0.3 minutes
+
+48. Hawthorn Station
    Station ID: train_vic:rail:HAW
    Station Location: (-37.822071, 145.023006)
    Connected to Road Node: road_2397142291
@@ -59,7 +395,31 @@ CONNECTION DETAILS
    Walking Distance: 20.8m
    Walking Time: 0.2 minutes
 
-7. Heyington Station
+49. Heatherdale Station
+   Station ID: train_vic:rail:HTD
+   Station Location: (-37.818733, 145.214586)
+   Connected to Road Node: road_100726156
+   Road Location: (-37.819400, 145.214581)
+   Walking Distance: 74.0m
+   Walking Time: 0.9 minutes
+
+50. Heathmont Station
+   Station ID: train_vic:rail:HMT
+   Station Location: (-37.828494, 145.244563)
+   Connected to Road Node: road_811196984
+   Road Location: (-37.828700, 145.245459)
+   Walking Distance: 82.2m
+   Walking Time: 1.0 minutes
+
+51. Heidelberg Station
+   Station ID: train_vic:rail:HDB
+   Station Location: (-37.757130, 145.060843)
+   Connected to Road Node: road_9073393584
+   Road Location: (-37.757632, 145.061321)
+   Walking Distance: 69.9m
+   Walking Time: 0.8 minutes
+
+52. Heyington Station
    Station ID: train_vic:rail:HEY
    Station Location: (-37.834644, 145.022568)
    Connected to Road Node: road_309805806
@@ -67,7 +427,63 @@ CONNECTION DETAILS
    Walking Distance: 46.2m
    Walking Time: 0.5 minutes
 
-8. Kooyong Station
+53. Highett Station
+   Station ID: train_vic:rail:HIG
+   Station Location: (-37.948023, 145.041518)
+   Connected to Road Node: road_3222368411
+   Road Location: (-37.948725, 145.041773)
+   Walking Distance: 81.1m
+   Walking Time: 1.0 minutes
+
+54. Holmesglen Station
+   Station ID: train_vic:rail:HOL
+   Station Location: (-37.874616, 145.089963)
+   Connected to Road Node: road_315612070
+   Road Location: (-37.873774, 145.090497)
+   Walking Distance: 104.7m
+   Walking Time: 1.2 minutes
+
+55. Hughesdale Station
+   Station ID: train_vic:rail:HUG
+   Station Location: (-37.894022, 145.075770)
+   Connected to Road Node: road_652263487
+   Road Location: (-37.894028, 145.076307)
+   Walking Distance: 47.3m
+   Walking Time: 0.6 minutes
+
+56. Huntingdale Station
+   Station ID: train_vic:rail:HUN
+   Station Location: (-37.911072, 145.102397)
+   Connected to Road Node: road_31424517
+   Road Location: (-37.911259, 145.102383)
+   Walking Distance: 20.8m
+   Walking Time: 0.2 minutes
+
+57. Ivanhoe Station
+   Station ID: train_vic:rail:IVA
+   Station Location: (-37.768951, 145.045435)
+   Connected to Road Node: road_322696221
+   Road Location: (-37.769285, 145.044953)
+   Walking Distance: 56.4m
+   Walking Time: 0.7 minutes
+
+58. Jordanville Station
+   Station ID: train_vic:rail:JOR
+   Station Location: (-37.873763, 145.112473)
+   Connected to Road Node: road_27289545
+   Road Location: (-37.874210, 145.112917)
+   Walking Distance: 63.2m
+   Walking Time: 0.8 minutes
+
+59. Keon Park Station
+   Station ID: train_vic:rail:KPK
+   Station Location: (-37.695751, 145.011758)
+   Connected to Road Node: road_328202186
+   Road Location: (-37.695961, 145.012239)
+   Walking Distance: 48.4m
+   Walking Time: 0.6 minutes
+
+60. Kooyong Station
    Station ID: train_vic:rail:KYG
    Station Location: (-37.839974, 145.033539)
    Connected to Road Node: road_304927308
@@ -75,7 +491,223 @@ CONNECTION DETAILS
    Walking Distance: 33.0m
    Walking Time: 0.4 minutes
 
-9. Riversdale Station
+61. Laburnum Station
+   Station ID: train_vic:rail:LAB
+   Station Location: (-37.820629, 145.140820)
+   Connected to Road Node: road_1484553905
+   Road Location: (-37.820779, 145.140223)
+   Walking Distance: 55.2m
+   Walking Time: 0.7 minutes
+
+62. Lalor Station
+   Station ID: train_vic:rail:LAL
+   Station Location: (-37.665871, 145.017340)
+   Connected to Road Node: road_355270884
+   Road Location: (-37.665702, 145.017789)
+   Walking Distance: 43.8m
+   Walking Time: 0.5 minutes
+
+63. Lilydale Station
+   Station ID: train_vic:rail:LIL
+   Station Location: (-37.755413, 145.347917)
+   Connected to Road Node: road_10931187206
+   Road Location: (-37.756875, 145.346971)
+   Walking Distance: 182.4m
+   Walking Time: 2.2 minutes
+
+64. Macleod Station
+   Station ID: train_vic:rail:MCD
+   Station Location: (-37.726523, 145.068960)
+   Connected to Road Node: road_309817674
+   Road Location: (-37.726654, 145.068583)
+   Walking Distance: 36.3m
+   Walking Time: 0.4 minutes
+
+65. Malvern Station
+   Station ID: train_vic:rail:MAL
+   Station Location: (-37.866433, 145.029278)
+   Connected to Road Node: road_10848296196
+   Road Location: (-37.865916, 145.029379)
+   Walking Distance: 58.1m
+   Walking Time: 0.7 minutes
+
+66. McKinnon Station
+   Station ID: train_vic:rail:MCK
+   Station Location: (-37.911476, 145.038006)
+   Connected to Road Node: road_266261506
+   Road Location: (-37.911873, 145.037722)
+   Walking Distance: 50.6m
+   Walking Time: 0.6 minutes
+
+67. Mentone Station
+   Station ID: train_vic:rail:MEN
+   Station Location: (-37.983624, 145.066315)
+   Connected to Road Node: road_31656180
+   Road Location: (-37.983687, 145.066700)
+   Walking Distance: 34.5m
+   Walking Time: 0.4 minutes
+
+68. Mitcham Station
+   Station ID: train_vic:rail:MCH
+   Station Location: (-37.817984, 145.193212)
+   Connected to Road Node: road_355105440
+   Road Location: (-37.818140, 145.193807)
+   Walking Distance: 55.1m
+   Walking Time: 0.7 minutes
+
+69. Montmorency Station
+   Station ID: train_vic:rail:MMY
+   Station Location: (-37.715253, 145.121052)
+   Connected to Road Node: road_308452632
+   Road Location: (-37.714923, 145.121216)
+   Walking Distance: 39.4m
+   Walking Time: 0.5 minutes
+
+70. Moorabbin Station
+   Station ID: train_vic:rail:MRN
+   Station Location: (-37.934514, 145.036654)
+   Connected to Road Node: road_307867763
+   Road Location: (-37.934893, 145.037069)
+   Walking Distance: 55.6m
+   Walking Time: 0.7 minutes
+
+71. Mooroolbark Station
+   Station ID: train_vic:rail:MLK
+   Station Location: (-37.784704, 145.313687)
+   Connected to Road Node: road_310187920
+   Road Location: (-37.785146, 145.313665)
+   Walking Distance: 49.1m
+   Walking Time: 0.6 minutes
+
+72. Mordialloc Station
+   Station ID: train_vic:rail:MOR
+   Station Location: (-38.006326, 145.087347)
+   Connected to Road Node: road_1590307853
+   Road Location: (-38.006665, 145.086445)
+   Walking Distance: 87.7m
+   Walking Time: 1.0 minutes
+
+73. Mount Waverley Station
+   Station ID: train_vic:rail:MWY
+   Station Location: (-37.875337, 145.128099)
+   Connected to Road Node: road_141609459
+   Road Location: (-37.875488, 145.128830)
+   Walking Distance: 66.5m
+   Walking Time: 0.8 minutes
+
+74. Murrumbeena Station
+   Station ID: train_vic:rail:MRB
+   Station Location: (-37.890290, 145.067486)
+   Connected to Road Node: road_268057227
+   Road Location: (-37.890676, 145.067595)
+   Walking Distance: 43.9m
+   Walking Time: 0.5 minutes
+
+75. Narre Warren Station
+   Station ID: train_vic:rail:NWA
+   Station Location: (-38.027664, 145.303870)
+   Connected to Road Node: road_594071763
+   Road Location: (-38.028003, 145.303771)
+   Walking Distance: 38.6m
+   Walking Time: 0.5 minutes
+
+76. Noble Park Station
+   Station ID: train_vic:rail:NPK
+   Station Location: (-37.966296, 145.175877)
+   Connected to Road Node: road_259174489
+   Road Location: (-37.966629, 145.176670)
+   Walking Distance: 78.8m
+   Walking Time: 0.9 minutes
+
+77. North Brighton Station
+   Station ID: train_vic:rail:NBN
+   Station Location: (-37.904698, 145.002599)
+   Connected to Road Node: road_305086105
+   Road Location: (-37.905495, 145.002342)
+   Walking Distance: 91.3m
+   Walking Time: 1.1 minutes
+
+78. Nunawading Station
+   Station ID: train_vic:rail:NWG
+   Station Location: (-37.820459, 145.174861)
+   Connected to Road Node: road_737103624
+   Road Location: (-37.820214, 145.174966)
+   Walking Distance: 28.6m
+   Walking Time: 0.3 minutes
+
+79. Oakleigh Station
+   Station ID: train_vic:rail:OAK
+   Station Location: (-37.900243, 145.088095)
+   Connected to Road Node: road_31422750
+   Road Location: (-37.900047, 145.088449)
+   Walking Distance: 38.0m
+   Walking Time: 0.5 minutes
+
+80. Ormond Station
+   Station ID: train_vic:rail:OMD
+   Station Location: (-37.904190, 145.039371)
+   Connected to Road Node: road_314134260
+   Road Location: (-37.903962, 145.039689)
+   Walking Distance: 37.7m
+   Walking Time: 0.4 minutes
+
+81. Parkdale Station
+   Station ID: train_vic:rail:PKD
+   Station Location: (-37.992902, 145.076013)
+   Connected to Road Node: road_308859855
+   Road Location: (-37.992951, 145.076493)
+   Walking Distance: 42.6m
+   Walking Time: 0.5 minutes
+
+82. Patterson Station
+   Station ID: train_vic:rail:PAT
+   Station Location: (-37.924871, 145.035523)
+   Connected to Road Node: road_11445752776
+   Road Location: (-37.925337, 145.035302)
+   Walking Distance: 55.2m
+   Walking Time: 0.7 minutes
+
+83. Preston Station
+   Station ID: train_vic:rail:PRE
+   Station Location: (-37.738865, 145.000585)
+   Connected to Road Node: road_311674964
+   Road Location: (-37.737950, 145.000114)
+   Walking Distance: 109.7m
+   Walking Time: 1.3 minutes
+
+84. Regent Station
+   Station ID: train_vic:rail:REG
+   Station Location: (-37.728484, 145.002804)
+   Connected to Road Node: road_311224256
+   Road Location: (-37.728195, 145.002426)
+   Walking Distance: 46.3m
+   Walking Time: 0.6 minutes
+
+85. Reservoir Station
+   Station ID: train_vic:rail:RES
+   Station Location: (-37.716706, 145.007103)
+   Connected to Road Node: road_6735549547
+   Road Location: (-37.716451, 145.006881)
+   Walking Distance: 34.5m
+   Walking Time: 0.4 minutes
+
+86. Ringwood East Station
+   Station ID: train_vic:rail:RWE
+   Station Location: (-37.811717, 145.250867)
+   Connected to Road Node: road_30686219
+   Road Location: (-37.811857, 145.251306)
+   Walking Distance: 41.6m
+   Walking Time: 0.5 minutes
+
+87. Ringwood Station
+   Station ID: train_vic:rail:RWD
+   Station Location: (-37.815684, 145.229280)
+   Connected to Road Node: road_147224954
+   Road Location: (-37.816203, 145.229365)
+   Walking Distance: 58.1m
+   Walking Time: 0.7 minutes
+
+88. Riversdale Station
    Station ID: train_vic:rail:RIV
    Station Location: (-37.831298, 145.069640)
    Connected to Road Node: road_312423022
@@ -83,7 +715,87 @@ CONNECTION DETAILS
    Walking Distance: 170.0m
    Walking Time: 2.0 minutes
 
-10. Tooronga Station
+89. Rosanna Station
+   Station ID: train_vic:rail:ROS
+   Station Location: (-37.743152, 145.066315)
+   Connected to Road Node: road_373677429
+   Road Location: (-37.742590, 145.066516)
+   Walking Distance: 64.9m
+   Walking Time: 0.8 minutes
+
+90. Ruthven Station
+   Station ID: train_vic:rail:RUT
+   Station Location: (-37.707915, 145.009482)
+   Connected to Road Node: road_316758288
+   Road Location: (-37.707802, 145.009121)
+   Walking Distance: 34.3m
+   Walking Time: 0.4 minutes
+
+91. Sandown Park Station
+   Station ID: train_vic:rail:SNP
+   Station Location: (-37.956494, 145.162724)
+   Connected to Road Node: road_3542761284
+   Road Location: (-37.956203, 145.162784)
+   Walking Distance: 32.7m
+   Walking Time: 0.4 minutes
+
+92. Sandringham Station
+   Station ID: train_vic:rail:SHM
+   Station Location: (-37.950284, 145.004494)
+   Connected to Road Node: road_6206786185
+   Road Location: (-37.950401, 145.004209)
+   Walking Distance: 28.2m
+   Walking Time: 0.3 minutes
+
+93. Southland Station
+   Station ID: train_vic:rail:SOU
+   Station Location: (-37.959127, 145.049259)
+   Connected to Road Node: road_317852990
+   Road Location: (-37.958923, 145.048439)
+   Walking Distance: 75.5m
+   Walking Time: 0.9 minutes
+
+94. Springvale Station
+   Station ID: train_vic:rail:SPG
+   Station Location: (-37.949226, 145.153265)
+   Connected to Road Node: road_2151205137
+   Road Location: (-37.949579, 145.153065)
+   Walking Distance: 43.0m
+   Walking Time: 0.5 minutes
+
+95. Syndal Station
+   Station ID: train_vic:rail:SYN
+   Station Location: (-37.876288, 145.149461)
+   Connected to Road Node: road_26453209
+   Road Location: (-37.876684, 145.149483)
+   Walking Distance: 44.0m
+   Walking Time: 0.5 minutes
+
+96. Tecoma Station
+   Station ID: train_vic:rail:TCM
+   Station Location: (-37.908090, 145.342904)
+   Connected to Road Node: road_96341623
+   Road Location: (-37.907705, 145.342813)
+   Walking Distance: 43.5m
+   Walking Time: 0.5 minutes
+
+97. Thomastown Station
+   Station ID: train_vic:rail:TSN
+   Station Location: (-37.680321, 145.014347)
+   Connected to Road Node: road_355075795
+   Road Location: (-37.680344, 145.014818)
+   Walking Distance: 41.6m
+   Walking Time: 0.5 minutes
+
+98. Toorak Station
+   Station ID: train_vic:rail:TOR
+   Station Location: (-37.850832, 145.013612)
+   Connected to Road Node: road_3134395430
+   Road Location: (-37.850950, 145.014368)
+   Walking Distance: 67.9m
+   Walking Time: 0.8 minutes
+
+99. Tooronga Station
    Station ID: train_vic:rail:TGA
    Station Location: (-37.849135, 145.041399)
    Connected to Road Node: road_11751876268
@@ -91,11 +803,75 @@ CONNECTION DETAILS
    Walking Distance: 60.6m
    Walking Time: 0.7 minutes
 
+100. Union Station
+   Station ID: train_vic:rail:UNN
+   Station Location: (-37.822478, 145.101374)
+   Connected to Road Node: road_317123007
+   Road Location: (-37.821796, 145.101789)
+   Walking Distance: 84.0m
+   Walking Time: 1.0 minutes
+
+101. Upper Ferntree Gully Station
+   Station ID: train_vic:rail:UFG
+   Station Location: (-37.892596, 145.307293)
+   Connected to Road Node: road_266639304
+   Road Location: (-37.892246, 145.307592)
+   Walking Distance: 46.9m
+   Walking Time: 0.6 minutes
+
+102. Upwey Station
+   Station ID: train_vic:rail:UPW
+   Station Location: (-37.903710, 145.331413)
+   Connected to Road Node: road_266615134
+   Road Location: (-37.903906, 145.331338)
+   Walking Distance: 22.7m
+   Walking Time: 0.3 minutes
+
+103. Watsonia Station
+   Station ID: train_vic:rail:WAT
+   Station Location: (-37.711020, 145.083758)
+   Connected to Road Node: road_5382449434
+   Road Location: (-37.711036, 145.082696)
+   Walking Distance: 93.6m
+   Walking Time: 1.1 minutes
+
+104. Wattle Glen Station
+   Station ID: train_vic:rail:WTT
+   Station Location: (-37.664005, 145.181693)
+   Connected to Road Node: road_7472691414
+   Road Location: (-37.664921, 145.181815)
+   Walking Distance: 102.2m
+   Walking Time: 1.2 minutes
+
+105. Westall Station
+   Station ID: train_vic:rail:WTL
+   Station Location: (-37.937975, 145.138095)
+   Connected to Road Node: road_580016967
+   Road Location: (-37.938337, 145.137682)
+   Walking Distance: 54.2m
+   Walking Time: 0.6 minutes
+
+106. Willison Station
+   Station ID: train_vic:rail:WSN
+   Station Location: (-37.835670, 145.070242)
+   Connected to Road Node: road_312427093
+   Road Location: (-37.835194, 145.069694)
+   Walking Distance: 71.5m
+   Walking Time: 0.9 minutes
+
+107. Yarraman Station
+   Station ID: train_vic:rail:YMN
+   Station Location: (-37.977732, 145.191010)
+   Connected to Road Node: road_259176060
+   Road Location: (-37.978207, 145.192273)
+   Walking Distance: 122.9m
+   Walking Time: 1.5 minutes
+
 ============================================================
 STATISTICS
 ============================================================
 
-Average walking distance: 62.6m
-Min walking distance: 20.8m
-Max walking distance: 170.0m
+Average walking distance: 60.6m
+Min walking distance: 17.8m
+Max walking distance: 182.4m
 Average walking time: 0.7 minutes
